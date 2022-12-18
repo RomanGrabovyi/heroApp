@@ -1,0 +1,41 @@
+{
+  "heroes": [
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "c629e685-5f9f-4084-b770-4d5dc95c60a1",
+      "name": "ewrf",
+      "description": "kkkkkkkkkkk",
+      "element": "fire"
+    },
+    {
+      "id": "757157e7-809e-4851-807f-35448fa3c8b2",
+      "name": "ewrf",
+      "description": "ssssss",
+      "element": "fire"
+    },
+    {
+      "id": "e2a776eb-99ff-45d8-90cb-3c73bde05632",
+      "name": "",
+      "description": "",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ]
+}
