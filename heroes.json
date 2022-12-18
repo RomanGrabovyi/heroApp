@@ -1,22 +1,22 @@
 {
   "heroes": [
     {
+      "id": 1,
+      "name": "Перший герой",
+      "description": "Перший герой по рейтингу!",
+      "element": "fire"
+    },
+    {
       "id": 2,
       "name": "Невідомий герой",
-      "description": "Ховаючийсь в тіні",
+      "description": "Ховаючись в тіні",
       "element": "wind"
     },
     {
       "id": 3,
       "name": "Морський герой",
-      "description": "Як аквамен",
+      "description": "Як аквамен...",
       "element": "water"
-    },
-    {
-      "id": "1cd2864e-fb3d-4987-8c4d-7441603d4955",
-      "name": "",
-      "description": "",
-      "element": ""
     }
   ],
   "filters": [
@@ -27,7 +27,7 @@
     },
     {
       "name": "fire",
-      "label": "Огонь",
+      "label": "вогонь",
       "className": "btn-danger"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "name": "wind",
-      "label": "Ветер",
+      "label": "Вітер",
       "className": "btn-success"
     },
     {

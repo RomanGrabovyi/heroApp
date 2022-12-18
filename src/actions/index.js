@@ -31,20 +31,20 @@ export const heroCreated = (hero) => {
     }
 }
 
-export const filterFetching = () => {
+export const filtersFetching = () => {
     return {
         type: 'FILTER_FEATCHING'
     }
 }
 
-export const fiterFetched = (filters) => {
+export const filtersFetched = (filters) => {
     return {
-        type: 'FILTER_FETCHED',
+        type: 'FILTERS_FETCHED',
         payload: filters
     }
 }
 
-export const filterFetchingError = () => {
+export const filtersFetchingError = () => {
     return {
         type: 'FILTER_FETCHING_ERROR'
     }
