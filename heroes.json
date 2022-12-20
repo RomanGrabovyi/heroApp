@@ -1,33 +1,33 @@
 {
   "heroes": [
     {
-      "id": 1,
-      "name": "Перший герой",
-      "description": "Перший герой по рейтингу!",
-      "element": "fire"
+      "id": "9e7702d7-1dc6-46e4-8c8b-604830c197a2",
+      "name": "Роман",
+      "description": "Плавати",
+      "element": "water"
     },
     {
-      "id": 2,
-      "name": "Невідомий герой",
-      "description": "Ховаючись в тіні",
+      "id": "86662c14-2d11-4f83-9b53-5f78a28a588d",
+      "name": "Роман",
+      "description": "Літати",
       "element": "wind"
     },
     {
-      "id": 3,
-      "name": "Морський герой",
-      "description": "Як аквамен...",
-      "element": "water"
+      "id": "559911ea-83d5-4f7e-abf5-1b5bc8f02675",
+      "name": "Роман",
+      "description": "Горіти",
+      "element": "fire"
     }
   ],
   "filters": [
     {
       "name": "all",
-      "label": "Всі",
+      "label": "Все",
       "className": "btn-outline-dark"
     },
     {
       "name": "fire",
-      "label": "вогонь",
+      "label": "Огонь",
       "className": "btn-danger"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "name": "wind",
-      "label": "Вітер",
+      "label": "Ветер",
       "className": "btn-success"
     },
     {
